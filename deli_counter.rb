@@ -9,3 +9,8 @@ katz_deli = []
  
  line(katz_deli)
  
+ new_serving(katz_deli)
+ 
+ line_serving(katz_deli)
+ 
+ 
