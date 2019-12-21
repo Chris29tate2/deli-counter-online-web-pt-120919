@@ -1,3 +1,4 @@
-katz deli = []
+katz_deli = []
  
-  take_a_number(katz_deli, "Ada") #=> Welcome, 
+ take_a_number(katz_deli)
+ ("Ada")
